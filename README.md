@@ -1,7 +1,7 @@
 # HEALTH APPLICATION CONCEPTION
 ---
 
-the aim of this project is to propose an application to accompany people with diabetes. To this end, we:
+The aim of this project is to propose an application to accompany people with diabetes. To this end, we:
 
 ## 1. Dataset preprocessing
 ## 2. Data exploration
